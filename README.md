@@ -22,7 +22,7 @@ four possible futures — **Historical**, **Current (2020–2026)**, **Business-
 
 **Correlation Heatmap** — how every variable relates to every other variable at a glance:
 
-![Correlation Heatmap](images/chart_heatmap.png)
+![Correlation Heatmap](Climate Change.png)
 
 **Future Forecast** — extending temperature trends 10 years beyond the dataset, to 2050:
 
