@@ -26,7 +26,7 @@ four possible futures — **Historical**, **Current (2020–2026)**, **Business-
 
 **Future Forecast** — extending temperature trends 10 years beyond the dataset, to 2050:
 
-![Future Forecast](images/chart_forecast.png)
+![Future Forecast](climatechange.png)
 
 ## 🗂️ Repository Contents
 
