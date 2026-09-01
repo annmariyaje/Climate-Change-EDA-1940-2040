@@ -29,9 +29,8 @@ four possible futures — **Historical**, **Current (2020–2026)**, **Business-
 
 | File | Description |
 |---|---|
-| `Climate_Change_Final_Project.ipynb` | Full Jupyter Notebook — cleaning, EDA, 11 visualizations, forecasting, and insights |
+| `Climate_Change.ipynb` | Full Jupyter Notebook — cleaning, EDA, 11 visualizations, forecasting, and insights |
 | `climate_dataset_extended_1940_2040.csv` | Raw dataset (as obtained from source) |
-| `Climate_Change_Final_Project.pdf` | PDF export of the notebook |
 | `Climate_Change_Full_Overview.pptx` | Full presentation deck covering all 4 tasks with charts |
 | `images/` | Chart screenshots used in this README |
 
@@ -44,9 +43,7 @@ four possible futures — **Historical**, **Current (2020–2026)**, **Business-
    pivot table comparisons across Region, Scenario, and Decade
 4. **Visualizations** — 11 charts including line, bar, pie, histogram, box plot, scatter plot,
    correlation heatmap, and an interactive Plotly chart
-5. **Forecasting** — Linear Regression used to project temperature anomaly trends 10 years beyond
-   the dataset (to 2050)
-6. **Insights & Conclusion** — key findings and recommendations based on the analysis
+5. **Insights & Conclusion** — key findings and recommendations based on the analysis
 
 ## 💡 Key Insights
 
@@ -67,14 +64,13 @@ widens the further into the future the trend is projected.
 
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
-- Scikit-learn (Linear Regression for forecasting)
 - Jupyter Notebook
 
 ## 🚀 How to Run
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
-jupyter notebook Climate_Change_Final_Project.ipynb
+pip install pandas numpy matplotlib seaborn plotly  jupyter
+jupyter notebook Climate_Change.ipynb
 ```
 
 Make sure `climate_dataset_extended_1940_2040.csv` is in the same folder as the notebook.
